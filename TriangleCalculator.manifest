@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"R. M. McQuiston",
+	"description":	{
+		"":	"Calculate the remaining lengths or angles of a triangle given three inputs"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
