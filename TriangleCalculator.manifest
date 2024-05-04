@@ -1,10 +1,13 @@
 {
-	"autodeskProduct":	"Fusion360",
-	"type":	"script",
-	"author":	"R. M. McQuiston",
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"9d233f28-51b8-474f-a9f9-67f99940704a",
+	"author":	"Richard McQuiston (richard@mcqsoft.com)",
 	"description":	{
 		"":	"Calculate the remaining lengths or angles of a triangle given three inputs"
 	},
+	"version":	"1.0.0",
+	"runOnStartup":	false,
 	"supportedOS":	"windows|mac",
 	"editEnabled":	true
 }
