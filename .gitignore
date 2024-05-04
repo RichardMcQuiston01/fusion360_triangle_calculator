@@ -1,2 +1,10 @@
-.idea
-.vscode
+.idea/
+.vscode/
+
+*.log
+
+*.exe
+*.zip
+*.rar
+*.7z
+*.tar.gz
