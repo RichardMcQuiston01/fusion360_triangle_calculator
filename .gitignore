@@ -1,5 +1,5 @@
-.idea/
-.vscode/
+/.idea
+/.vscode
 
 *.log
 
@@ -8,3 +8,5 @@
 *.rar
 *.7z
 *.tar.gz
+
+.env
